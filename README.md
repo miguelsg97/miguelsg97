@@ -1,16 +1,20 @@
-## Hi there 👋
+# Miguel S. Gomes
 
-<!--
-**miguelsg97/miguelsg97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Técnico em Desenvolvimento de Sistemas** — ETEC Machado de Assis  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** — FATEC São José dos Campos (Prof. Jessen Vidal)
 
-Here are some ideas to get you started:
+💻 **Interesses e Áreas de Estudo**  
+Desenvolvimento Web • Front-end • Lógica de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tecnologias**  
+HTML • CSS • C# (básico)
+
+## 🔗 Conexões
+
+<a href="https://www.linkedin.com/in/miguelsg479/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:miguel.gomes01@aluno.cps.sp.gov.br">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
