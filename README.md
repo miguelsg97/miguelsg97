@@ -7,7 +7,7 @@
 Desenvolvimento de Software • Lógica de Programação • Fundamentos de Computação
 
 🛠 **Tecnologias**  
-HTML • CSS • C# • Python • Git • Linux
+HTML • CSS • Python • Git • Linux
 
 ## 🔗 Contato
 <p align="center">
