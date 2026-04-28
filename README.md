@@ -1,10 +1,10 @@
 # Miguel S. Gomes
 
 🎓 **Técnico em Desenvolvimento de Sistemas** — ETEC Machado de Assis  
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** — FATEC São José dos Campos (Prof. Jessen Vidal)
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** — FATEC São José dos Campos - Prof. Jessen Vidal
 
 💻 **Interesses e Áreas de Estudo**  
-Desenvolvimento de Software • Lógica de Programação • Fundamentos de Computação
+Desenvolvimento de Software • Desenvolvimento Front-end • Redes de Computadores • Algoritmos e Lógica de Programação
 
 🛠 **Tecnologias**  
 HTML • CSS • Python • Git • Linux
