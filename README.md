@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Software-0A66C2?style=for-the-badge">&nbsp;
   <img src="https://img.shields.io/badge/Front--end-61DAFB?style=for-the-badge&logo=html5&logoColor=black">&nbsp;
   <img src="https://img.shields.io/badge/Redes%20de%20Computadores-FF6F00?style=for-the-badge">&nbsp;
-  <img src="https://img.shields.io/badge/Algoritmos%20e%20Lógica-6A1B9A?style=for-the-badge">
 </p>
 
 🛠️ *Tecnologias*
@@ -17,8 +16,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
 </p>
 
